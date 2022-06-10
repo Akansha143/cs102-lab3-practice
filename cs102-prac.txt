@@ -1,1 +1,8 @@
 This is the practice os lab3.
+here add the five git command and short description
+1
+2
+3
+4
+5
+
